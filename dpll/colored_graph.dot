@@ -1,0 +1,45 @@
+graph G {
+Arad [color=green]
+Zerind [color=red]
+Sibiu [color=blue]
+Timisoara [color=red]
+Bucharest [color=blue]
+Urziceni [color=red]
+Pitesti [color=green]
+Giurgiu [color=red]
+Fagaras [color=green]
+Craiova [color=blue]
+Drobeta [color=green]
+Rimnicu [color=red]
+Mehadia [color=blue]
+Eforie [color=blue]
+Hirsova [color=green]
+Iasi [color=red]
+Vaslui [color=green]
+Neamt [color=green]
+Lugoj [color=green]
+Oradea [color=green]
+Arad -- Zerind
+Arad -- Sibiu
+Arad -- Timisoara
+Bucharest -- Urziceni
+Bucharest -- Pitesti
+Bucharest -- Giurgiu
+Bucharest -- Fagaras
+Urziceni -- Vaslui
+Pitesti -- Rimnicu
+Fagaras -- Sibiu
+Craiova -- Drobeta
+Craiova -- Rimnicu
+Craiova -- Pitesti
+Drobeta -- Mehadia
+Rimnicu -- Sibiu
+Eforie -- Hirsova
+Hirsova -- Urziceni
+Iasi -- Vaslui
+Iasi -- Neamt
+Lugoj -- Timisoara
+Lugoj -- Mehadia
+Oradea -- Zerind
+Oradea -- Sibiu
+}

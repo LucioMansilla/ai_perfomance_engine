@@ -1,0 +1,25 @@
+digraph G {
+Arad->Zerind
+Arad->Sibiu
+Arad->Timisoara
+Bucharest->Urziceni
+Bucharest->Pitesti
+Bucharest->Giurgiu
+Bucharest->Fagaras
+Craiova->Drobeta
+Craiova->Rimnicu
+Craiova->Pitesti
+Drobeta->Mehadia
+Eforie->Hirsova
+Fagaras->Sibiu
+Hirsova->Urziceni
+Iasi->Vaslui
+Iasi->Neamt
+Lugoj->Timisoara
+Lugoj->Mehadia
+Oradea->Zerind
+Oradea->Sibiu
+Pitesti->Rimnicu
+Rimnicu->Sibiu
+Urziceni->Vaslui
+}
